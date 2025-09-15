@@ -8,6 +8,4 @@ I'm Vinh,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinhjaxt">
 </p>
-<p align="center">
-  You are my <img src="https://profile-counter.glitch.me/vinhjaxt/count.svg"> visitor(s). Thank You! 🎉🎉
-</p>
+
